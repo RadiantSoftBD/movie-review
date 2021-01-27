@@ -219,7 +219,7 @@ section {margin:10px 0; display:block;}
 }
 
 .review-bg {
-	background: #080b12 url('../img/backgrounds/review-background-img.jpg') no-repeat center top fixed;
+	background: #080b12 url('https://i.pinimg.com/originals/5b/f4/67/5bf467e62bb92898b38177b9caeb8c1a.jpg') no-repeat center top fixed;
     background-repeat: no-repeat;
 }
 
@@ -380,15 +380,15 @@ section {margin:10px 0; display:block;}
 	margin:0;
 	padding: 10px 15px;
 	border-radius:0;
-	background: var(--primary-color);
+	background: #e50914;
 	text-transform:uppercase;
 	transition: all 0.1s linear 0s;
 	border-radius:8px;
 }
 
 .status-upload form button:hover {
-	background:#fff;
-	color:#777777;
+	background:#000;
+	color:#fff;
 }
 
 
@@ -423,7 +423,7 @@ section {margin:10px 0; display:block;}
 .panel-heading {
 	border:none;
 	border-radius:0;
-	background: var(--primary-color) !important;
+	background: #e50914 !important;
 	color:#fff !important;
 	border-radius:8px 8px 0 0;
 }
@@ -568,7 +568,7 @@ a.post-thumb {
 }
 
 .cactus-note {
-    background-color: var(--primary-color);
+    background-color: #e50914;
     bottom: 0;
     color: #fff;
     left: 0;
@@ -633,7 +633,7 @@ a.post-thumb {
 .flag1 {border-left: 30px solid #e50914;}
 .flag {
     border-bottom: 30px solid transparent;
-    border-left: 30px solid var(--secondary-color);
+    border-left: 30px solid #e50914;
     border-top: 30px solid transparent;
     height: 0;
     width: 0;
@@ -644,7 +644,7 @@ a.post-thumb {
 
 /* BANNERS */
 .banner-md {margin:25px 0; display:block;}
-#featured-video h2.title {border-left:7px solid var(--secondary-color);}
+#featured-video h2.title {border-left:7px solid #e50914;}
 #main, #tabs, #footer {padding:50px 0;}
 
 /* SIDEBAR */
@@ -814,7 +814,7 @@ ul.social li a {
 /* SUBSCRIBE BOX */
 .subscribe-box {
     background: transparent;
-	border:3px solid var(--primary-color);
+	border:3px solid #e50914;
     padding: 20px;
     text-align: center;
 	display:inline-block;
