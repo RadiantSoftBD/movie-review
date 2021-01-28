@@ -161,7 +161,7 @@ section {margin:10px 0; display:block;}
 	display:inline-block;
 	margin-top:15px;
 	margin-bottom:15px;
-	width: 130px;
+	width: 130px !important;
 }
 .img-logo{
 	width: 100px;
