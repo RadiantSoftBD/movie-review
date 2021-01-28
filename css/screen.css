@@ -1650,7 +1650,7 @@ margin-left: -15px;}
 .pagination > li > span:focus {
   z-index: 2;
   transition: all 0.1s linear 0s;
-	background: var(--primary-color);
+	background: #e50914;
 	
 	color:#fff;
 	
