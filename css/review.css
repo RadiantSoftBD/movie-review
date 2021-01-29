@@ -1,0 +1,21 @@
+
+.box-star a{
+    font-size: 30px;
+    color: #fff;
+    transition: 0.3s ;
+}
+.b1:hover {
+    color: #8ff10f;
+}
+.b2:hover{
+    color: #0f5ef1;
+}
+.b3:hover {
+    color: #f10fc0;
+}
+.b4:hover{
+    color: #f1160f;
+}
+.b5:hover{
+    color: #f1c40f;
+}
